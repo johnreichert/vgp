@@ -1,0 +1,11 @@
+{
+  "name": "vgp",
+  "version": "1.0.0",
+  "description": "Verify Google Photos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Reichert",
+  "license": "ISC"
+}
